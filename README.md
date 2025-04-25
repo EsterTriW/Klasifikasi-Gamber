@@ -6,7 +6,7 @@ The dataset used for this project is the [Vegetable Image Dataset](https://www.k
 
 - **Number of classes**: 15
 - **Number of images per class**: ~1400
-- **Total data = 21.000
+- **Total data** : 21.000
 
 ## Model Architecture
 
