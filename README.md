@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The dataset used for this project is the [Vegetable Image Dataset](https://www.kaggle.com/datasets/). 
+The dataset used for this project is the [Vegetable Image Dataset]((https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)). 
 
 - **Number of classes**: 15
 - **Number of images per class**: ~1400
